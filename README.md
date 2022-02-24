@@ -16,6 +16,14 @@ Here is a list of ruby terms and definitions used in class.
 <em>**Gem**</em> - INSERT DEFINITION HERE <br>
 
 ## Part 2
+<em>**Conditional**</em> - INSERT DEFINITION HERE <br>
+<em>**The difference between if, elseif and else.**</em> - INSERT ANSWER HERE <br>
+<em>**What are Case/When statements? </em> - INSERT DEfINNITION HERE <br>
+<em>**What is a data structure? </em> - INSERT ANSWER HERE <rb>
+<em>**Arrays**</em> - INSERT DEFINITION HERE <br>
+<em>**What is meant by 'built-in' methods?**</em> - INSERT DEFINITION HERE <br>
+<em>**Loops**</em> - INSERT DEFINITION HERE <br>
+<em>**What are infinite loops?**</em> - INSERT DEFINITION HERE <br>
 
 ## Part 3
 
