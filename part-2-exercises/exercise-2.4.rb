@@ -1,3 +1,11 @@
-user {"email" => "test@mail.com", "id" => "Test"}
+user = {
+  email: "test@testmail.com",
+  id: "test"
+}
 
-puts {}.methods
+puts user[:email]
+puts user[:id]
+
+puts user.empty?
+puts user.has_key?(:id)
+puts user.inspect
